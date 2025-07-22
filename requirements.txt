@@ -8,7 +8,6 @@ numpy
 transformers==4.40.2
 diffusers
 triton
-flash-attn
 pymeshfix
 git+https://github.com/EasternJournalist/utils3d.git#egg=utils3d
 pyvista
